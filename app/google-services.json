@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141806285217",
+    "project_id": "mugs-app",
+    "storage_bucket": "mugs-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141806285217:android:ec59ec1f361e73a6549be0",
+        "android_client_info": {
+          "package_name": "com.abhishek.graphmugsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141806285217-0l6g54dgm7829c15k2a4hj6f77oml17b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abhishek.graphmugsdemo",
+            "certificate_hash": "380471a194c00261cbc6e85de5456192e4b02588"
+          }
+        },
+        {
+          "client_id": "141806285217-3odafc906b04eqpgpo1pgd3jchh88ukd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbuS1CnaD0RfdNZdmrt1bhhG64vMt3HyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141806285217-3odafc906b04eqpgpo1pgd3jchh88ukd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
